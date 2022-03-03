@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/learningProgressionExplorerV3/static/css/main.9e03feb3.css",
-    "main.js": "/learningProgressionExplorerV3/static/js/main.0543467b.js",
+    "main.js": "/learningProgressionExplorerV3/static/js/main.79a64225.js",
     "static/media/SampleLayerFour.png": "/learningProgressionExplorerV3/static/media/SampleLayerFour.982f34718b486558854e.png",
     "static/media/logo.svg": "/learningProgressionExplorerV3/static/media/logo.0d889039ee22af9441bc4c07dde0011f.svg",
     "static/media/readingIcon.svg": "/learningProgressionExplorerV3/static/media/readingIcon.21fd138da5f9c1d81c7d56260429f350.svg",
     "static/media/mathsIcon.svg": "/learningProgressionExplorerV3/static/media/mathsIcon.fcd978265408f4a836d122b24f74fcfb.svg",
     "index.html": "/learningProgressionExplorerV3/index.html",
     "main.9e03feb3.css.map": "/learningProgressionExplorerV3/static/css/main.9e03feb3.css.map",
-    "main.0543467b.js.map": "/learningProgressionExplorerV3/static/js/main.0543467b.js.map"
+    "main.79a64225.js.map": "/learningProgressionExplorerV3/static/js/main.79a64225.js.map"
   },
   "entrypoints": [
     "static/css/main.9e03feb3.css",
-    "static/js/main.0543467b.js"
+    "static/js/main.79a64225.js"
   ]
 }
